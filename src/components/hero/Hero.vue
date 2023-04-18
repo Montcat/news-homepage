@@ -35,7 +35,7 @@
 		margin: 1rem 0;
 
 		.hero-image {
-			height: 35svh;
+			height: 90svh;
 			width: 100%;
 
 			img {
